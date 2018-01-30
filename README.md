@@ -1,2 +1,7 @@
 # SCS-Coding
-# hello
+
+**TEAM**
+Guillaume Ah-ki
+Fabrizio Rodin-Miron
+Martin Marcos
+
